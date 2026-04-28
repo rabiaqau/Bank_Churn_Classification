@@ -1,4 +1,4 @@
-# Bank_Churn_Classification
+# Problem
 Build a complete machine learning pipeline for binary classification (customer churn prediction) using Logistic Regression and K-Nearest Neighbors (KNN). The assignment covers data loading, preprocessing, EDA, scaling, model training, evaluation, inspection, and hyperparameter tuning.
 # 🚀 Customer Churn Prediction Pipeline
 
